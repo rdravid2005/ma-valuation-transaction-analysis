@@ -1,0 +1,24 @@
+# Sources Register
+
+**Status:** Working document  
+**Source policy:** Prefer SEC filings and company investor-relations materials. Record the publication date, access date, use in the project, and relevant page or section when available.
+
+| ID | Company | Document | Publication / filing date | Accessed | Intended use | Source |
+|---|---|---|---|---|---|---|
+| S-001 | Cisco | FY2026 fourth-quarter and full-year results | Aug. 12, 2026 | Aug. 20, 2026 | Strategic priorities, security growth, liquidity and financing capacity | [Cisco Investor Relations](https://investor.cisco.com/news/news-details/2026/CISCO-REPORTS-FOURTH-QUARTER-AND-FISCAL-YEAR-2026-EARNINGS/default.aspx) |
+| S-002 | SentinelOne | SEC filing index and issuer status | July 1, 2026 | Aug. 20, 2026 | Confirm public-company status and filing availability | [SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1866222/000195824426000416/0001958244-26-000416-index.htm) |
+| S-003 | Rockwell Automation | Annual reports and 2025 Form 10-K archive | 2025 | Aug. 20, 2026 | Historical data availability and business research | [Rockwell Automation Investor Relations](https://www.rockwellautomation.com/en-us/company/investor-relations/annual-reports.html) |
+| S-004 | Cognex | SEC filings archive | 2026 | Aug. 20, 2026 | Historical financial statements and current filing availability | [Cognex Investor Relations](https://investor.cognex.com/financial-reports/sec-filings/default.aspx) |
+| S-005 | Stryker | Inari Medical acquisition presentation | Jan. 2025 | Aug. 20, 2026 | Acquisition strategy and precedent transaction structure | [Stryker Investor Relations](https://investors.stryker.com/files/doc_presentations/2025/Jan/06/Acquisition-of-Inari-Medical.pdf) |
+| S-006 | iRhythm | FY2025 results and 2026 outlook | Feb. 19, 2026 | Aug. 20, 2026 | Growth, profitability inflection and data availability | [iRhythm Investor Relations](https://investors.irhythmtech.com/news/news-details/2026/iRhythm-Holdings-Announces-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) |
+| S-007 | Emerson | FY2025 Form 10-K | Nov. 10, 2025 | Aug. 20, 2026 | Portfolio strategy, M&A history, financial capacity and segment data | [Emerson Investor Relations](https://ir.emerson.com/sec-filings/all-sec-filings/content/0000032604-25-000087/emr-20250930.htm) |
+| S-008 | Sensata Technologies | FY2025 fourth-quarter and full-year results | Feb. 19, 2026 | Aug. 20, 2026 | Turnaround profile, segments and financial-data availability | [Sensata Investor Relations](https://investors.sensata.com/news/news-details/2026/Sensata-Technologies-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results/default.aspx) |
+| S-009 | L3Harris | 2025 annual reports archive | 2026 | Aug. 20, 2026 | Historical financials and buyer analysis | [L3Harris Investor Relations](https://investors.l3harris.com/financials/annual-reports/default.aspx) |
+| S-010 | Kratos | FY2025 results and 2026 outlook | Feb. 23, 2026 | Aug. 20, 2026 | Growth, backlog, margin and target financial profile | [SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1069258/000106925826000012/ktos202512288kexhibit991.htm) |
+| S-011 | Intuit | Annual reports archive | Sept. 3, 2025 | Aug. 20, 2026 | Historical data and acquisition-risk disclosures | [Intuit Investor Relations](https://investors.intuit.com/sec-filings/annual-reports) |
+| S-012 | BILL Holdings | FY2025 results | Aug. 27, 2025 | Aug. 20, 2026 | Revenue model, profitability, customer funds and target profile | [BILL Investor Relations](https://investor.bill.com/news/news-details/2025/BILL-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Financial-Results-and-Announces-300-Million-Share-Repurchase-Program/default.aspx) |
+| S-013 | General Mills | Fiscal 2025 results and fiscal 2026 outlook | June 2025 | Aug. 20, 2026 | Buyer strategy and historical financials | [General Mills Investor Relations](https://investors.generalmills.com/press-releases/press-release-details/2025/General-Mills-Reports-Fiscal-2025-Fourth-quarter-and-Full-year-Results-and-Provides-Fiscal-2026-Outlook/default.aspx) |
+| S-014 | BellRing Brands | FY2025 annual report | 2025 | Aug. 20, 2026 | Historical financials, convenient-nutrition strategy and risks | [BellRing Brands](https://cdn.bellring.com/assets/pdf/BRBR_2025_Annual_Report.pdf) |
+| S-015 | IBM | FY2025 annual report | Feb. 2026 | Aug. 20, 2026 | Software strategy, M&A activity and transaction-capacity considerations | [IBM Investor Relations](https://www.ibm.com/investor/services/annual-report) |
+| S-016 | Box | Fiscal 2026 results | Mar. 3, 2026 | Aug. 20, 2026 | Recurring revenue, margins, RPO and target profile | [Box Investor Relations](https://www.boxinvestorrelations.com/news-and-media/news/press-release-details/2026/Box-Reports-Fourth-Quarter-and-Fiscal-2026-Financial-Results/) |
+
