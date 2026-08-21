@@ -3,8 +3,8 @@
 ## Current status
 
 **Selected transaction:** Rockwell Automation acquisition of Cognex  
-**Current phase:** DCF complete; trading comparable companies are next  
-**Estimated analytical completion after Step 6:** 51%
+**Current phase:** Trading comparable companies complete; precedent transactions are next  
+**Estimated analytical completion after Step 7:** 56%
 
 The percentages below are work-weighted estimates. Modeling and valuation phases carry more weight than administrative phases.
 
@@ -29,7 +29,7 @@ The percentages below are work-weighted estimates. Modeling and valuation phases
 - [x] Spread and analyze historical financial statements
 - [x] Build target operating forecast and buyer forecast metrics
 - [x] Complete DCF valuation
-- [ ] Complete trading comparable companies analysis
+- [x] Complete trading comparable companies analysis
 - [ ] Complete precedent transactions analysis
 - [ ] Complete valuation summary and football field
 - [ ] Establish offer price and consideration mix
