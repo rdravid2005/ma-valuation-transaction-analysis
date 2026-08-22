@@ -3,9 +3,9 @@
 ## Current status
 
 **Selected transaction:** Rockwell Automation acquisition of Cognex
-**Current phase:** Purchase accounting complete; accretion/dilution is next
-**Estimated analytical completion after Step 11:** 77%
-**Resume milestone:** Earliest credible standalone-valuation milestone achieved; describe the broader M&A transaction model as in progress until the core transaction analysis is complete
+**Current phase:** Core transaction model complete; synergy underwriting is next
+**Estimated analytical completion after Step 12:** 83%
+**Resume milestone:** Recommended core M&A transaction-analysis milestone achieved; the project may now be described as an independent M&A valuation and transaction model in progress
 
 The percentages below are work-weighted estimates. Modeling and valuation phases carry more weight than administrative phases.
 
@@ -36,7 +36,7 @@ The percentages below are work-weighted estimates. Modeling and valuation phases
 - [x] Establish offer price and consideration mix
 - [x] Build sources and uses and financing analysis
 - [x] Build purchase accounting
-- [ ] Build accretion/dilution analysis
+- [x] Build accretion/dilution analysis
 - [ ] Build synergy and breakeven analysis
 - [ ] Complete sensitivities, risks, and diligence questions
 - [ ] Audit and finalize the Excel model
