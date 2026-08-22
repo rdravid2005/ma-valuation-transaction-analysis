@@ -3,9 +3,9 @@
 ## Current status
 
 **Selected transaction:** Rockwell Automation acquisition of Cognex
-**Current phase:** Synergy underwriting complete; sensitivities, risks, and final model QA are next
-**Estimated analytical completion after Step 13:** 87%
-**Resume milestone:** Recommended core M&A transaction-analysis milestone achieved; the project may now be described as an independent M&A valuation and transaction model in progress
+**Current phase:** Complete and ready for publication
+**Estimated completion:** 100%
+**Resume milestone:** Complete portfolio project; ready to include on a resume and discuss in interviews after completing the understanding checklist
 
 The percentages below are work-weighted estimates. Modeling and valuation phases carry more weight than administrative phases.
 
@@ -18,7 +18,7 @@ The percentages below are work-weighted estimates. Modeling and valuation phases
 | 3. Operating forecast | Driver-based Cognex forecast and required Rockwell forecast metrics | 43% | Can describe as an in-progress independent project, but not as completed valuation work |
 | 4. Standalone valuation | DCF, trading comps, precedents, and valuation summary/football field | 65% | **Earliest credible resume milestone** if clearly described as valuation analysis |
 | 5. Core transaction model | Offer price, sources and uses, financing, purchase accounting, and accretion/dilution | 83% | **Recommended resume milestone** for an M&A transaction-analysis claim |
-| 6. Synergies, risks, and QA | Synergies, sensitivities, risks, model checks, and audit | 91% | Strong interview-ready analytical project |
+| 6. Synergies, risks, and QA | Synergies, sensitivities, risks, model checks, and audit | 93% | **Strong interview-ready analytical project** |
 | 7. Presentation and publication | Pitchbook, final README, GitHub QA, and recruiting materials | 100% | Complete portfolio project |
 
 ## Phase checklist
@@ -38,11 +38,11 @@ The percentages below are work-weighted estimates. Modeling and valuation phases
 - [x] Build purchase accounting
 - [x] Build accretion/dilution analysis
 - [x] Build synergy and breakeven analysis
-- [ ] Complete sensitivities, risks, and diligence questions
-- [ ] Audit and finalize the Excel model
-- [ ] Create and verify the pitchbook PDF
-- [ ] Finalize GitHub repository and recruiter-facing README
-- [ ] Create resume, LinkedIn, and interview materials
+- [x] Complete sensitivities, risks, and diligence questions
+- [x] Audit and finalize the Excel model
+- [x] Create and verify the pitchbook PDF
+- [x] Finalize GitHub repository and recruiter-facing README
+- [x] Create resume, LinkedIn, and interview materials
 
 ## Accelerated critical path
 

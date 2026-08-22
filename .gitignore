@@ -29,6 +29,7 @@ node_modules/
 tmp/
 temp/
 outputs/
+*.inspect.ndjson
 01_research/raw_downloads/
 06_supporting_materials/working/
 
