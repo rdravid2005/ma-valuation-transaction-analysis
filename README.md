@@ -4,7 +4,7 @@
 
 This repository contains an independent, hypothetical analysis of a potential acquisition of Cognex Corporation (NASDAQ: CGNX) by Rockwell Automation, Inc. (NYSE: ROK). The project is designed to demonstrate public-company research, operating-model construction, valuation, purchase-price and financing analysis, accretion/dilution, synergy analysis, and transaction presentation skills.
 
-> **Status:** In development. Transaction selection, research, historical analysis, operating forecasts, standalone valuation, transaction assumptions, sources and uses, and financing are complete. Purchase accounting and accretion/dilution are next.
+> **Status:** In development. Transaction selection, research, historical analysis, operating forecasts, standalone valuation, transaction assumptions, financing, and purchase accounting are complete. Accretion/dilution is next.
 
 ## Preliminary thesis
 
@@ -23,6 +23,7 @@ Cognex could add a differentiated machine-vision and visual-data layer to Rockwe
 - [Precedent transactions](03_valuation/precedent_transactions.md)
 - [Valuation summary and football field](03_valuation/valuation_summary.md)
 - [Purchase price and financing](04_transaction/purchase_price_and_financing.md)
+- [Purchase accounting](04_transaction/purchase_accounting.md)
 - [Sources register](01_research/sources.md)
 - [Model architecture](02_model/model_architecture.md)
 - [Modeling conventions](06_supporting_materials/modeling_conventions.md)
@@ -36,7 +37,7 @@ Cognex could add a differentiated machine-vision and visual-data layer to Rockwe
 - Trading comparable companies
 - Precedent transactions
 - Valuation summary and football field
-- Purchase accounting and accretion/dilution
+- Accretion/dilution
 - Cost and revenue synergies
 - Sensitivities, risks, and investment considerations
 - Investment-banking-style transaction pitchbook
