@@ -1,7 +1,10 @@
 # Sources Register
 
-**Status:** Working document  
+**Status:** Complete; last audited Aug. 22, 2026
+
 **Source policy:** Prefer SEC filings and company investor-relations materials. Record the publication date, access date, use in the project, and relevant page or section when available.
+
+**Scope note:** S-001 through S-016 support the initial transaction-screening exercise. S-017 through S-052 support the selected Rockwell / Cognex analysis; the Excel model includes the 32 entries used directly in model inputs and calculations.
 
 | ID | Company | Document | Publication / filing date | Accessed | Intended use | Source |
 |---|---|---|---|---|---|---|
@@ -28,7 +31,7 @@
 | S-021 | Cognex | First-quarter 2026 results | May 7, 2026 | Aug. 20, 2026 | Current revenue growth, margins, earnings, and capital return | [SEC EDGAR](https://www.sec.gov/Archives/edgar/data/851205/000085120526000037/a04052026-xex991xq12026ear.htm) |
 | S-022 | Cognex | Second-quarter 2026 results | Aug. 6, 2026 | Aug. 20, 2026 | Most recent revenue growth, margins, and earnings momentum | [SEC EDGAR](https://www.sec.gov/Archives/edgar/data/851205/000085120526000061/a07052026-xex991xq22026ear.htm) |
 | S-023 | Industry | International Federation of Robotics, World Robotics 2025 | Sept. 25, 2025 | Aug. 20, 2026 | Global robot installations, regional mix, and automation-adoption evidence | [International Federation of Robotics](https://ifr.org/worldrobotics/report-2025) |
-| S-024 | Industry | U.S. robot installations increased in 2025 | 2026 | Aug. 20, 2026 | Current U.S. automation demand and end-market adoption | [International Federation of Robotics](https://ifr.org/ifr-press-releases/news/record-3.5-million-industrial-robots-operating-worldwide) |
+| S-024 | Industry | U.S. robot installations increased in 2025 | June 18, 2026 | Aug. 20, 2026 | Current U.S. automation demand and end-market adoption | [International Federation of Robotics](https://ifr.org/ifr-press-releases/news/us-robot-industry-returns-to-double-digit-growth) |
 | S-025 | Cognex | FY2023 Form 10-K | Feb. 15, 2024 | Aug. 20, 2026 | FY2021-FY2023 comparative historical financial statements | [SEC EDGAR](https://www.sec.gov/Archives/edgar/data/851205/000085120524000027/cgnx-20231231.htm) |
 | S-026 | Rockwell Automation | FY2022 Form 10-K | Nov. 8, 2022 | Aug. 20, 2026 | FY2021-FY2022 historical financials and total segment operating earnings | [SEC EDGAR](https://www.sec.gov/Archives/edgar/data/1024478/000102447822000093/rok-20220930.htm) |
 | S-027 | Rockwell Automation | SEC Company Facts API | Aug. 20, 2026 | Aug. 20, 2026 | XBRL extraction and historical statement reconciliation | [SEC Company Facts](https://data.sec.gov/api/xbrl/companyfacts/CIK0001024478.json) |

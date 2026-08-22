@@ -30,7 +30,7 @@ I wanted to demonstrate the analytical work performed in an M&A process, so I se
 
 I first spread Cognex's historical financials and built a driver-based five-year forecast. I then valued the company using a DCF, public trading comparables, and precedent transactions. After comparing those ranges, I tested an illustrative offer of $80.00 per share, which represents a 33.9% premium and approximately $12.7 billion of transaction enterprise value.
 
-Next, I built sources and uses with a 30% cash and 70% stock mix, modeled purchase accounting and incremental amortization, and calculated reported and adjusted accretion/dilution. I also developed bottom-up cost and revenue synergies by function and ramp year. The base case reaches $144.5 million of recurring pre-tax synergies, but that covers only 58.9% of the approximately $245.2 million needed for FY2030 EPS breakeven, leaving the deal about 3.7% adjusted dilutive.
+Next, I built sources and uses with a 30% cash and 70% stock mix, modeled purchase accounting and incremental amortization, and calculated accretion/dilution including and excluding PPA expense. I also developed bottom-up cost and revenue synergies by function and ramp year. The base case reaches $144.5 million of recurring pre-tax synergies, but that covers only 58.9% of the approximately $245.2 million needed for FY2030 EPS breakeven, leaving the deal about 3.7% adjusted dilutive.
 
 I sensitized the outcome to offer price, synergy realization, stock consideration, and debt cost. Only the most favorable tested price-and-synergy case becomes marginally accretive. I therefore concluded that the strategic logic is credible, but Rockwell should not support the $80 offer solely on the current financial case. The exercise taught me how valuation, financing, purchase accounting, and synergy underwriting interact in an acquisition model.
 
@@ -118,4 +118,3 @@ Before claiming the project in an interview, be able to do each item without rea
 - State the base recommendation and identify evidence that would change it.
 - Identify the model's most important limitations and hypothetical assumptions.
 - Locate every material source and distinguish sourced facts from assumptions.
-

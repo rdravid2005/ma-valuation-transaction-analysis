@@ -42,7 +42,7 @@ The core precedent median range is $40.27–$45.32 per Cognex share when EV / Re
 
 The wide gap between fundamental transaction multiples and the premium-paid method is a central deal issue, not a modeling error. Cognex's current market price already exceeds the standalone DCF and the core public-company and precedent-multiple indications. A credible acquisition proposal would likely need to exceed the unaffected price, which would require Rockwell to justify a materially higher valuation through defensible synergies, strategic scarcity, or stronger operating assumptions.
 
-The premium-paid method estimates the price necessary to obtain control; it does not establish intrinsic value or shareholder value creation. The next step will reconcile DCF, trading comparables, precedents, and the unaffected share price in a valuation summary and football field before selecting a proposed offer price.
+The premium-paid method estimates the price necessary to obtain control; it does not establish intrinsic value or shareholder value creation. The valuation summary reconciles DCF, trading comparables, precedents, and the unaffected share price before establishing an illustrative offer-price framework.
 
 ## Model location
 

@@ -51,7 +51,7 @@ The core comps range is approximately 54%–67% above the standalone DCF value o
 - Cognex's FY2026E forecast includes a substantial earnings recovery, which raises forward EBITDA and EPS.
 - The peer set contains premium businesses whose quality and diversification may exceed Cognex's.
 
-The next valuation steps will test this gap using precedent transactions and a valuation summary. No acquisition offer should be selected from trading comps alone.
+Precedent transactions and the valuation summary provide additional evidence around this gap. No acquisition offer is selected from trading comps alone.
 
 ## Audit notes
 
@@ -59,4 +59,3 @@ The next valuation steps will test this gap using precedent transactions and a v
 - Equity and enterprise values are presented in each company's local currency; valuation multiples are currency-neutral.
 - Keyence is excluded from the EV/EBITDA quartiles because a current LTM EBITDA multiple was unavailable in the selected public source.
 - All implied share prices use formula-linked Cognex forecast metrics, cash, debt, and diluted shares from the model.
-

@@ -6,6 +6,8 @@ This repository contains an independent, hypothetical analysis of a potential ac
 
 > **Status:** Complete. The final Excel model, transaction pitchbook, supporting analysis, source register, and recruiting materials are included below.
 
+[![Rockwell Automation / Cognex transaction pitchbook cover](05_pitchbook/pitchbook_preview.png)](05_pitchbook/MA_Transaction_Pitchbook.pdf)
+
 ## Transaction thesis
 
 Cognex could add a differentiated machine-vision and visual-data layer to Rockwell's industrial automation platform. However, the illustrative $80.00-per-share offer represents a 33.9% premium and approximately $12.7 billion of transaction enterprise value. Even after $144.5 million of modeled recurring pre-tax synergies, the transaction remains approximately 3.7% adjusted EPS dilutive in FY2030. The analysis therefore supports preserving price discipline and proceeding only with a lower price, stronger customer-level evidence for revenue synergies, or explicit acceptance of near-term dilution for defensible long-term strategic value.
@@ -25,12 +27,23 @@ Cognex could add a differentiated machine-vision and visual-data layer to Rockwe
 - Valuation summary and football field
 - Offer price, purchase price, sources and uses, and financing
 - Purchase accounting and incremental amortization
-- Reported and adjusted accretion/dilution
+- Accretion/dilution including and excluding purchase-accounting expense
 - Bottom-up synergies and breakeven analysis
 - Offer-price, synergy, financing-mix, and debt-cost sensitivities
 - Transaction risks, diligence priorities, and model audit
 
-## Current materials
+## Repository structure
+
+| Folder | Contents |
+|---|---|
+| `01_research/` | Transaction selection, company and industry research, historical analysis, forecast rationale, and source register |
+| `02_model/` | Final Excel model and model architecture |
+| `03_valuation/` | DCF, trading comps, precedent transactions, and valuation summary |
+| `04_transaction/` | Financing, purchase accounting, accretion/dilution, synergies, sensitivities, and risks |
+| `05_pitchbook/` | Final PDF and editable PowerPoint pitchbook |
+| `06_supporting_materials/` | Modeling conventions, model audit, project checklist, and recruiting materials |
+
+## Supporting analysis
 
 - [Project mandate](01_research/project_mandate.md)
 - [Transaction selection](01_research/transaction_shortlist.md)
@@ -57,7 +70,7 @@ Cognex could add a differentiated machine-vision and visual-data layer to Rockwe
 
 ## Skills demonstrated
 
-Public-company research; three-statement analysis; operating forecasting; DCF; trading comps; precedent transactions; purchase accounting; sources and uses; debt and equity financing; accretion/dilution; synergy underwriting; sensitivity analysis; Excel model auditing; and transaction presentation.
+Public-company research; historical financial-statement analysis; operating forecasting; DCF; trading comps; precedent transactions; purchase accounting; sources and uses; debt and equity financing; accretion/dilution; synergy underwriting; sensitivity analysis; Excel model auditing; and transaction presentation.
 
 ## Disclaimer
 

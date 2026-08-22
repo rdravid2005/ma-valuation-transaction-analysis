@@ -2,7 +2,7 @@
 
 ## Audit scope
 
-The final analytical-model review covered all 17 worksheets, including historical financials, operating forecasts, standalone valuation, transaction financing, purchase accounting, accretion/dilution, synergies, and sensitivities.
+The final analytical-model review covered all 17 worksheets, including historical financials, operating forecasts, standalone valuation, transaction financing, purchase accounting, accretion/dilution, synergies, and sensitivities. A final pre-publication audit was completed on Aug. 22, 2026.
 
 ## Completed checks
 
@@ -18,7 +18,7 @@ The final analytical-model review covered all 17 worksheets, including historica
 - Synergy category, phasing, revenue contribution, integration-cost, and EPS checks
 - Sensitivity-table center points and directional-behavior checks
 
-All 53 visible model checks return `OK`, and the workbook-wide formula scan found no visible Excel errors.
+All 53 visible model checks return `OK`, the workbook-wide formula scan found no visible Excel errors, and the workbook package contains no external-workbook links.
 
 ## Modeling conventions reviewed
 
@@ -40,4 +40,3 @@ All 53 visible model checks return `OK`, and the workbook-wide formula scan foun
 - Market prices and company forecasts are based on the analysis date stated in the workbook and will become stale.
 
 These limitations are disclosed so the model demonstrates analytical judgment without implying false precision.
-

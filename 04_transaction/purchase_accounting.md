@@ -18,7 +18,7 @@ This is an illustrative merger-model allocation. An actual transaction would req
 
 Cognex's July 5, 2026 unaudited balance sheet provides the latest book equity, goodwill, and intangible-asset balances. Historical target goodwill is removed because the acquisition establishes a new goodwill balance based on Rockwell's consideration and the fair value of the acquired net assets.
 
-## Preliminary fair-value allocation
+## Illustrative fair-value allocation
 
 | Asset | % of consideration | Fair value | Useful life |
 |---|---:|---:|---:|
@@ -65,7 +65,7 @@ The illustrative March 31, 2027 close creates six months of ownership in Rockwel
 | Deferred tax benefit | ($62.6 million) |
 | After-tax PPA expense | **$235.5 million** |
 
-The expense is non-cash, but it reduces reported GAAP earnings and therefore matters for GAAP accretion/dilution. The next step will separately show reported EPS and an adjusted view excluding acquisition-related amortization so the economic and accounting effects are not confused.
+The expense is non-cash, but it reduces EPS after including purchase-accounting effects. The accretion/dilution analysis separately shows results including and excluding acquisition-related PPA expense so the economic and accounting effects are not confused. Because Rockwell's standalone earnings base is derived from adjusted EPS guidance, the merger-model output should not be presented as a fully audited GAAP forecast.
 
 ## Key risks and limitations
 

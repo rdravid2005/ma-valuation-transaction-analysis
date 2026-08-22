@@ -31,7 +31,7 @@ The $59.73 unaffected price exceeds the selected standalone range. This indicate
 
 The illustrative acquisition range is $75–$85 per share, with an $80 midpoint. This is not a weighted average of the standalone methods. It is a negotiation framework anchored by the unaffected market price and the observed precedent-premium range.
 
-At $80 per share, the preliminary transaction metrics are:
+At $80 per share, the illustrative transaction metrics are:
 
 | Metric | Output |
 |---|---:|
@@ -46,11 +46,11 @@ The offer sits within the trading P / E range and below the median precedent-pre
 
 ## Avoiding double-counting
 
-The premium-paid method already reflects control and some anticipated strategic value. It should not be combined mechanically with a standalone valuation and then increased again for all synergies. Synergies will be modeled separately to determine how much of the purchase premium Rockwell could economically support.
+The premium-paid method already reflects control and some anticipated strategic value. It should not be combined mechanically with a standalone valuation and then increased again for all synergies. The synergy analysis separately determines how much of the purchase premium Rockwell could economically support.
 
-## Next analytical question
+## Transaction-model linkage
 
-The next phase will test the $80 midpoint rather than treating it as final. The analysis will establish consideration mix, target cash treatment, financing assumptions, transaction fees, sources and uses, and Rockwell's pro forma leverage before the price is carried into purchase accounting and accretion/dilution.
+The transaction model tests the $80 midpoint rather than treating it as a recommendation. It incorporates consideration mix, target cash treatment, financing assumptions, transaction fees, sources and uses, Rockwell's pro forma leverage, purchase accounting, accretion/dilution, and independently underwritten synergies.
 
 ## Model location
 

@@ -33,7 +33,7 @@ Buyer standalone earnings are based on Rockwell's adjusted EPS guidance and the 
 | Debt-fee amortization period | 5 years |
 | New Rockwell shares issued | 21.835 million |
 
-The headline analysis excludes synergies because they have not yet been independently underwritten. It also excludes one-time transaction fees from recurring EPS, although their first-year effect is presented separately.
+The pre-synergy analysis excludes transaction benefits to isolate the burden created by purchase price and financing. The separately completed synergy analysis then adds independently underwritten cost and revenue benefits. One-time transaction fees are excluded from recurring EPS, although their first-year effect is presented separately.
 
 ## Pro forma earnings bridge
 
@@ -81,4 +81,4 @@ The FY2027E amount is annualized from six months of transaction ownership. The a
 - The persistence of adjusted dilution suggests the acquisition price is high relative to Cognex's forecast earnings.
 - An accretive transaction is not automatically value-creating, and a dilutive transaction is not automatically value-destroying; strategic value, cash flow, risk, and the price paid must also be considered.
 
-The next step will build a bottom-up synergy case rather than inserting the breakeven amount as an assumed benefit.
+The bottom-up synergy case is built independently from the breakeven requirement rather than inserting the breakeven amount as an assumed benefit.

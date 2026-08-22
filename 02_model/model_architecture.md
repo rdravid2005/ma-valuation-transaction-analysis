@@ -2,9 +2,9 @@
 
 ## Objective
 
-The Excel model will separate sources, assumptions, calculations, and outputs so that another analyst can audit the work without relying on the model's author.
+The Excel model separates sources, assumptions, calculations, and outputs so that another analyst can audit the work without relying on the model's author.
 
-## Planned worksheet order
+## Final worksheet order
 
 | Order | Tab | Purpose | Principal inputs | Principal outputs |
 |---:|---|---|---|---|
@@ -46,10 +46,10 @@ Accretion/dilution, sensitivities, and recommendation
 
 ## Design principles
 
-- Historical data will be entered once and referenced elsewhere.
-- Forecasts will be driven by visible assumptions rather than hardcoded outputs.
-- No offer price will be selected before standalone valuation is complete.
-- Revenue and cost synergies will be modeled separately.
+- Historical data are entered once and referenced elsewhere.
+- Forecasts are driven by visible assumptions rather than hardcoded outputs.
+- The offer-price framework follows completion of standalone valuation.
+- Revenue and cost synergies are modeled separately.
 - Sources and uses must balance.
 - The equity-value bridge, purchase accounting, and pro forma EPS must reconcile.
-- Every material output will have a visible check.
+- Every material output has a visible check.

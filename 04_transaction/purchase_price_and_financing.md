@@ -67,11 +67,11 @@ Gross leverage remains slightly below the model's illustrative 3.0x ceiling with
 
 Rockwell's March 2026 Form 10-Q reported $423 million of cash and $3.691 billion of total debt and disclosed a $1.5 billion revolving facility plus a minimum 3.0x EBITDA-to-interest covenant. The model uses the filing to anchor existing capital structure and covenant context, but the proposed debt mix, rate, fees, leverage ceiling, and funding proportions remain hypothetical assumptions.
 
-## Limitations and next analysis
+## Limitations and linked analyses
 
 - Share prices are fixed as of the analysis date; an actual stock transaction would require an exchange-ratio structure and collar analysis.
 - The model assumes no debt repayment, divestitures, or committed acquisition facility beyond the stated sources.
-- Purchase accounting, incremental amortization, foregone interest income, and transaction-related tax effects are not yet reflected.
-- Cost and revenue synergies are excluded from the base leverage metrics and will be evaluated separately.
+- Purchase accounting, incremental amortization, foregone interest income, and transaction-related tax effects are reflected in the dedicated transaction schedules rather than in the leverage table above.
+- Cost and revenue synergies are excluded from the base leverage metrics and evaluated separately in the synergy analysis.
 
-The next step is purchase accounting, which will estimate goodwill, intangible-asset write-ups, deferred taxes, and incremental amortization before those effects flow into accretion/dilution.
+The purchase-accounting and accretion/dilution schedules carry these financing assumptions through goodwill, intangible-asset write-ups, deferred taxes, incremental amortization, and pro forma EPS.
